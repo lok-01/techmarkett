@@ -14,6 +14,11 @@ Welcome to **Tech Market**, a modern e-commerce web application designed to prov
 
 ---
 
+Live urls : 
+frontend : https://techmarkett.vercel.app/
+backend products : get request / :  https://techmarkett.onrender.com/api/products
+
+
 ## Project Structure
 
 This project is separated into a frontend Client and a backend API:
