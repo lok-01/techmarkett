@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { UserContext } from '../context/Createcontext';
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://techmarkett.onrender.com";
 
 const UserProvider = ({ children }) => {
 
