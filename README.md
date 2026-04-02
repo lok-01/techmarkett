@@ -2,6 +2,13 @@
 
 A **full-stack MERN e-commerce application** with JWT authentication, role-based access control (RBAC), and an admin dashboard. Built with React, Node.js, Express, and MongoDB.
 
+---
+
+## Live URLs
+
+- **Frontend**: [https://techmarkett.vercel.app](https://techmarkett.vercel.app/)
+- **Backend API**: [https://techmarkett.onrender.com/api/products](https://techmarkett.onrender.com/api/products)
+
 ## Features
 
 ### Customer Features
@@ -189,13 +196,6 @@ Password: admin123
                       -> Middleware checks role (admin/user)
                       -> Controller runs if authorized
 ```
-
----
-
-## Live URLs
-
-- **Frontend**: [https://techmarkett.vercel.app](https://techmarkett.vercel.app/)
-- **Backend API**: [https://techmarkett.onrender.com/api/products](https://techmarkett.onrender.com/api/products)
 
 ---
 
